@@ -1,0 +1,24 @@
+.bold {
+    font-weight:bold
+}
+
+.nav-bar {
+    background-color: grey;
+    padding: 20px;
+    text-align: center;
+}
+
+
+.footer {
+    background-color: lightslategray;
+    padding: 20px;
+    text-align: center;
+}
+
+.content {
+    background-color: lightsteelblue;
+    padding: 20px;
+    margin: 10px;
+    height: 300px;
+
+}
