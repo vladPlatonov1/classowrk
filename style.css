@@ -1,24 +1,24 @@
 .bold {
-    font-weight:bold
+    font-weight:400
 }
 
 .nav-bar {
-    background-color: grey;
-    padding: 20px;
-    text-align: center;
+    background-color: purple;
+    padding: 30px;
+    text-align: right;
 }
 
 
 .footer {
-    background-color: lightslategray;
+    background-color: blue;
     padding: 20px;
-    text-align: center;
+    text-align: left;
 }
 
 .content {
-    background-color: lightsteelblue;
-    padding: 20px;
+    background-color: red;
+    padding: 30px;
     margin: 10px;
-    height: 600px;
+    height: 500px;
 
 }
